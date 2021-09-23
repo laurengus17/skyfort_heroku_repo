@@ -70,3 +70,10 @@
 .image_container {
     margin-right: 130px;
 }
+
+@media screen and (max-width: 750px) {
+    .growing_image {
+        height: 50%;
+        width: 50%;
+    }
+}
