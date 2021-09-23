@@ -21,7 +21,7 @@
 
 .origins_title {
     color: #ffffff;
-    font-size: 60px;
+    font-size: 48px;
 }
 
 .origins_spacing {
@@ -30,12 +30,12 @@
 
 .origins_tagline {
     color: #ffffff;
-    font-size: 25px;
+    font-size: 18px;
     line-height: 1.5em;
     letter-spacing: 1px;
 }
 
 .origins_statement {
     color: #c2c3c5;
-    font-size: 22px;
+    font-size: 16px;
 }
