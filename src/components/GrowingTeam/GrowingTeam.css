@@ -38,22 +38,23 @@
 .growing_image {
     display: inline-block;
     margin-left: 30px;
+    max-width: 100%;
 }
 
 .growing_title {
     color: #3347de;
-    font-size: 22px;
+    font-size: 18px;
     font-weight: 700;
 }
 
 .growing_tagline {
     color: #ffffff;
-    font-size: 70px;
+    font-size: 48px;
 }
 
 .growing_statement {
     color: #ffffff;
-    font-size: 25px;
+    font-size: 18px;
     line-height: 1.5em;
 }
 
