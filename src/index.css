@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    background-color: #0d0f19;
+}
+
+div {
+    display: block;
+}
+
+h1,
+p {
+    margin: 5px;
+    padding: 5px;
+}
