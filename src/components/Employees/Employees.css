@@ -91,9 +91,3 @@
     padding-top: 20%;
     padding-bottom: 70px;
 }
-
-@media screen and (min-width: 1900px) {
-    .employees_display {
-        width: 320px;
-    }
-}
