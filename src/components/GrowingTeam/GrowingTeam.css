@@ -8,10 +8,10 @@
 
 @keyframes createBox {
     from {
-        transform: scale(0);
+        transform: scale(0em);
     }
     to {
-        transform: scale(1);
+        transform: scale(1em);
     }
 }
 
