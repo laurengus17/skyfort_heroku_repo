@@ -2,6 +2,8 @@ Notes:
 
 Start to finish took me around 7 hours. 
 
+Fighting a Heroku bug - when shrinking the screen the image animation glitches.
+
 Since I am not building the navbar or footer I just added placeholder space.
 
 Normally I would make a reusable component for the employee divs but since I am not making a database call to a list of employees and am just hardcoding the names/titles/images I created components for each. 
