@@ -92,8 +92,8 @@
     padding-bottom: 70px;
 }
 
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 1700px) {
     .employees_display {
-        width: 300px;
+        width: 320px;
     }
 }
