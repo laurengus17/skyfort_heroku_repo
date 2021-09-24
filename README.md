@@ -2,7 +2,8 @@ Notes:
 
 Start to finish took me around 7 hours. 
 
-Fighting a Heroku bug - when shrinking the screen the image animation glitches.
+Remaining Heroku bug that shows up:
+     - when shrinking the screen the image animation glitches.
 
 Since I am not building the navbar or footer I just added placeholder space.
 
