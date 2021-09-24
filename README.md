@@ -11,4 +11,6 @@ Used Raw CSS.
 Where I got the info about how to fade-in : https://dev.to/selbekk/how-to-fade-in-content-as-it-scrolls-into-view-10j4
 
 
-This repo has so few commits because I moved the app to a new repo before hosting on heroku.
+This repo has so few commits because I moved the app to a new repo before hosting on Heroku.
+
+Created an extremely basic backend with Express.js to host this on Heroku.

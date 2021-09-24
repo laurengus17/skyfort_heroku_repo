@@ -76,4 +76,9 @@
         height: 300px;
         width: 500px;
     }
+
+    .fade_in_image {
+        opacity: 1;
+        animation: none;
+    }
 }
