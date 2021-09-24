@@ -91,3 +91,9 @@
     padding-top: 20%;
     padding-bottom: 70px;
 }
+
+@media screen and (max-width: 1000px) {
+    .emplpyees_display {
+        width: 300px;
+    }
+}
