@@ -19,7 +19,7 @@ const GrowingTeams = () => {
             <div className={`fade_in_image ${visible ? 'visible' : ''}`}
             ref={DOM}>
             <div className='image_container'>
-                <img className='growing_image' src={about} alt='hiring' sizes="(max-width: 479px) 90vw, (max-width: 767px) 94vw, (max-width: 991px) 44vw, (max-width: 1279px) 48vw, 616px"/>
+                <img className='growing_image' src={about} alt='hiring' />
             </div>
             </div>
             <div  className={`fade_in_text ${visible ? 'visible' : ''}`}
