@@ -80,5 +80,6 @@
     .fade_in_image {
         opacity: 1;
         animation: none;
+        transition: none;
     }
 }
